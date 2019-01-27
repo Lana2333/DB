@@ -7,3 +7,5 @@ Creatting a new branch is quick & simple.
 =======
 Creatting a new branch is quick AND simple.
 >>>>>>> feature1
+
+use Git to manager branch
