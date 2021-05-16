@@ -8,7 +8,7 @@
 6. primary key <span><input type="text"/></span>
 
 ## 数据库
-1. 默认数据库 <span><input type="text"/></span> <input type="button" name="" value="弹框" onclick="alert('hello!')">
+1. 默认数据库 <span><input type="text"/></span> <button type="button" onclick="alert('hello!')">正解</button>
 2. <span><input type="text"/></span> 命令可以显示所有数据的列表
 3. <span><input type="text"/></span> 命令可以显示当前数据库对象或集合
 4. <span><input type="text"/></span> 命令可以连接到一个指定的数据库
@@ -38,15 +38,11 @@
 |Code| <span><input type="text"/></span> |
 |Regular expression| <span><input type="text"/></span> |
 
-|数据类型|描述|
-| -- | -- |
-|String| |
 
----
 ??? note "answer"
- 1. db
- 2. 'show db'
- 3. 'db'
- 4. 'use 数据库名'
- 5. 全部小写；最多64字节；不能有空字符串、￥ / \0 . 等
- 6. ① root数据库，库下的用户自动继承所有权限；② 该库不会被复制，存储限于本地单台服务器的任意集合； ③ Mongo用于分片设置时，该库在内部使用，用于保存分片信息
+  1. db
+  2. 'show db'
+  3. 'db'
+  4. 'use 数据库名'
+  5. 全部小写；最多64字节；不能有空字符串、￥ / \0 . 等
+  6. ① root数据库，库下的用户自动继承所有权限；② 该库不会被复制，存储限于本地单台服务器的任意集合； ③ Mongo用于分片设置时，该库在内部使用，用于保存分片信息
