@@ -18,9 +18,13 @@
  - local：<span><input type="text"/></span>
  - config：<span><input type="text"/></span>
 
+
+
+---
 ??? note "answer"
  1. db
  2. 'show db'
  3. 'db'
  4. 'use 数据库名'
- 5. 
+ 5. 全部小写；最多64字节；不能有空字符串、￥ / \0 . 等
+ 6. ① root数据库，库下的用户自动继承所有权限；② 该库不会被复制，存储限于本地单台服务器的任意集合； ③ Mongo用于分片设置时，该库在内部使用，用于保存分片信息
