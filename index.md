@@ -8,7 +8,7 @@
 6. primary key <span><input type="text"/></span>
 
 ## 数据库
-1. 默认数据库
+1. 默认数据库 <span><input type="text"/></span> <input type="button" name="" value="弹框" onclick="alert('hello!')">
 2. <span><input type="text"/></span> 命令可以显示所有数据的列表
 3. <span><input type="text"/></span> 命令可以显示当前数据库对象或集合
 4. <span><input type="text"/></span> 命令可以连接到一个指定的数据库
@@ -24,15 +24,3 @@
  3. 'db'
  4. 'use 数据库名'
  5. 
-<div class="input-group">
-      <div class="input-group-btn">
-        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
-        <ul class="dropdown-menu">
-          <li><a href="#">Action</a></li>
-          <li><a href="#">Another action</a></li>
-          <li><a href="#">Something else here</a></li>
-          <li role="separator" class="divider"></li>
-          <li><a href="#">Separated link</a></li>
-        </ul>
-      </div><!-- /btn-group -->
-    </div><!-- /input-group -->
