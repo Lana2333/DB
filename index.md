@@ -1,20 +1,3 @@
-# 概念
-## 术语概念
-1. database<span><input type="text"/></span><span><input type="button" value="点击有惊喜" οnclick="javascript:alert('哈哈哈哈')"></span>
-2. collection
-3. document
-4. filed
-5. index
-6. primary key
-
-## 数据库
-
-<input type="button" value="点击有惊喜" οnclick="surprise()"><!--调用函数-->
-<input type="button" value="点击" οnclick="surprise()">
-
-
-
-
 <html>
  <style type="text/css">
     p{
@@ -33,3 +16,19 @@
         }
     </script>
 </html>
+
+# 概念
+## 术语概念
+1. database<span><input type="text"/></span><span><input type="button" value="点击有惊喜" οnclick="javascript:alert('哈哈哈哈')"></span>
+2. collection
+3. document
+4. filed
+5. index
+6. primary key
+
+## 数据库
+
+<input type="button" value="点击有惊喜" οnclick="surprise()"><!--调用函数-->
+<input type="button" value="点击" οnclick="surprise()">
+
+
