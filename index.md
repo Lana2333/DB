@@ -19,6 +19,7 @@
  - config：<span><input type="text"/></span>
 
 ## 数据类型
+
 |数据类型|描述|
 | -- | -- |
 |String| <span><input type="text"/></span> |
@@ -37,6 +38,9 @@
 |Code| <span><input type="text"/></span> |
 |Regular expression| <span><input type="text"/></span> |
 
+|数据类型|描述|
+| -- | -- |
+|String| |
 
 ---
 ??? note "answer"
