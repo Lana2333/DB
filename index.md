@@ -9,14 +9,14 @@
 
 ## 数据库
 1. 默认数据库 <span><input type="text"/></span> <button type="button"  class="btn btn-success" onclick="alert('data路径下的db库')">正解</button>
-2. <span><input type="text"/></span> 命令可以显示所有数据的列表<button type="button"  class="btn btn-success" onclick="alert('show db')">正解</button>|
-3. <span><input type="text"/></span> 命令可以显示当前数据库对象或集合<button type="button"  class="btn btn-success" onclick="alert('db')">正解</button>|
-4. <span><input type="text"/></span> 命令可以连接到一个指定的数据库<button type="button"  class="btn btn-success" onclick="alert('use 数据库名')">正解</button>|
-5. 数据库名的要求：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('①全部小写；②最多64字节；③不能有空字符串、￥ / \0 . 等')">正解</button>|
+2. <span><input type="text"/></span> 命令可以显示所有数据的列表<button type="button"  class="btn btn-success" onclick="alert('show db')">正解</button>
+3. <span><input type="text"/></span> 命令可以显示当前数据库对象或集合<button type="button"  class="btn btn-success" onclick="alert('db')">正解</button>
+4. <span><input type="text"/></span> 命令可以连接到一个指定的数据库<button type="button"  class="btn btn-success" onclick="alert('use 数据库名')">正解</button>
+5. 数据库名的要求：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('①全部小写；②最多64字节；③不能有空字符串、￥ / \0 . 等')">正解</button>
 6. 以下特殊数据库的作用分别是什么？
- - admin：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('root数据库，库下的用户自动继承所有权限')">正解</button>|
- - local：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('该库不会被复制，存储限于本地单台服务器的任意集合')">正解</button>|
- - config：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('Mongo用于分片设置时，该库在内部使用，用于保存分片信息')">正解</button>|
+ - admin：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('root数据库，库下的用户自动继承所有权限')">正解</button>
+ - local：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('该库不会被复制，存储限于本地单台服务器的任意集合')">正解</button>
+ - config：<span><input type="text"/></span><button type="button"  class="btn btn-success" onclick="alert('Mongo用于分片设置时，该库在内部使用，用于保存分片信息')">正解</button>
 
 ## 数据类型
 
