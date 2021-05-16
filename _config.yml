@@ -1,24 +1,2 @@
 theme: jekyll-theme-hacker
 
-markdowm:redcarpet 
-
-extra_css:
-  - script/css/extra.css
-  - script/css/simplelightbox.min.css
-  - https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
-
-extra_javascript:
-  - script/js/jquery-1.11.3.min.js
-  - script/js/simple-lightbox.min.js
-  - script/js/extra.js
-  - https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js
-  - https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
-
-
-back2top:
-  enable: true
-  # Back to top in sidebar.
-  sidebar: true
-  # Scroll percent label in b2t button.
-  scrollpercent: true
-
