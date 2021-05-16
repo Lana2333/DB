@@ -2,4 +2,4 @@
 
 <div class="test"> shu </div>
 
-<button class="btn btn-default" type="submit">Button</button>
+<button type="button" class="btn btn-primary">（首选项）Primary</button>
