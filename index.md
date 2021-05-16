@@ -18,6 +18,24 @@
  - local：<span><input type="text"/></span>
  - config：<span><input type="text"/></span>
 
+## 数据类型
+|||
+| -- | -- |
+|String| <span><input type="text"/></span> |
+|Integer| <span><input type="text"/></span> |
+|Boolean| <span><input type="text"/></span> |
+|Double| <span><input type="text"/></span> |
+|Min/Max keys	| <span><input type="text"/></span> |
+|Array| <span><input type="text"/></span> |
+|Timestamp| <span><input type="text"/></span> |
+|Object| <span><input type="text"/></span> |
+|Null| <span><input type="text"/></span> |
+|Symbol| <span><input type="text"/></span> |
+|Date| <span><input type="text"/></span> |
+|Object ID| <span><input type="text"/></span> |
+|Binary Data| <span><input type="text"/></span> |
+|Code| <span><input type="text"/></span> |
+|Regular expression| <span><input type="text"/></span> |
 
 
 ---
