@@ -8,7 +8,7 @@
 6. primary key <span><input type="text"/></span>
 
 ## 数据库
-1. 默认数据库 <span><input type="text"/></span> <button type="button" onclick="alert('hello!')">正解</button>
+1. 默认数据库 <span><input type="text"/></span> <button type="button"  class="btn btn-success" onclick="alert('hello!')">正解</button>
 2. <span><input type="text"/></span> 命令可以显示所有数据的列表
 3. <span><input type="text"/></span> 命令可以显示当前数据库对象或集合
 4. <span><input type="text"/></span> 命令可以连接到一个指定的数据库
