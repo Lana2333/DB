@@ -27,7 +27,7 @@
 6. primary key
 
 ## 数据库
-
+llll
 <input type="button" value="点击有惊喜" οnclick="surprise()"><!--调用函数-->
 <input type="button" value="点击" οnclick="surprise()">
 
