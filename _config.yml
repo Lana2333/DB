@@ -1,1 +1,21 @@
 theme: jekyll-theme-hacker
+
+extra_css:
+  - script/css/extra.css
+  - script/css/simplelightbox.min.css
+
+extra_javascript:
+  - script/js/jquery-1.11.3.min.js
+  - script/js/simple-lightbox.min.js
+  - script/js/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
+
+
+back2top:
+  enable: true
+  # Back to top in sidebar.
+  sidebar: true
+  # Scroll percent label in b2t button.
+  scrollpercent: true
+
