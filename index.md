@@ -1,12 +1,10 @@
-# 术语概念
+# 概念
+## 术语概念
+1. database<span><input type="text"/></span>
+2. collection
+3. document
+4. filed
+5. index
+6. primary key
 
-<div class="input-group">
-  <div class="input-group-btn">
-   <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action <span class="caret"></span></button>
-   <ul class="dropdown-menu">
-     <li><a href="#">Action</a></li>
-   </ul>
-  </div><!-- /btn-group -->
-  <input type="text" class="form-control" aria-label="...">
-</div><!-- /input-group -->
-
+## 数据库
