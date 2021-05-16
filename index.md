@@ -38,3 +38,9 @@
 |Code| <span><input type="text"/></span> |<button type="button"  class="btn btn-success" onclick="alert('代码类型')">正解</button>|
 |Regular expression| <span><input type="text"/></span> |<button type="button"  class="btn btn-success" onclick="alert('代码类型')">正解</button>|
 
+### 部分重要的数据类型
+1. '''ObjectID''' 类似唯一主键，包含12bytes，含义是：
+ - 0~3位字节：<input type="text"/> <button type="button"  class="btn btn-success" onclick="alert('创建unix时间戳，用的是UTC时间，比北京时间晚8小时')">正解</button>
+ - 4~6位字节：<input type="text"/> <button type="button"  class="btn btn-success" onclick="alert('机器标识码')">正解</button>
+ - 7~8位字节：<input type="text"/> <button type="button"  class="btn btn-success" onclick="alert('PID，即进程id')">正解</button>
+ - 9~11位字节：<input type="text"/> <button type="button"  class="btn btn-success" onclick="alert('随机数-计数器')">正解</button>
