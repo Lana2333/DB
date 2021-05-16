@@ -19,7 +19,7 @@
  - config：<span><input type="text"/></span>
 
 ## 数据类型
-|||
+|数据类型|描述|
 | -- | -- |
 |String| <span><input type="text"/></span> |
 |Integer| <span><input type="text"/></span> |
