@@ -1,5 +1,7 @@
 theme: jekyll-theme-hacker
 
+markdowm:redcarpet
+
 extra_css:
   - script/css/extra.css
   - script/css/simplelightbox.min.css
